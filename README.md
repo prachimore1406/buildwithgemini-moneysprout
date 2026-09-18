@@ -2,6 +2,8 @@
 
 ![MoneySprout Live Demo](./demo.gif)
 
+*Watch full high-definition demo recording: [demo.mp4](./demo.mp4)*
+
 **MoneySprout** is an autonomous AI financial literacy companion designed to help children build healthy financial habits, learn money management concepts, track savings goals, and complete household chores through gamified interactions, AI video lessons, and digital award certificates.
 
 Powered by **Google Cloud Agent Development Kit (ADK)** and deployed on **Google Agent Runtime**, MoneySprout pairs an interactive mascot buddy named **Sprout** with a modern dashboard UI featuring real-time financial tracking tiles, AI video generation, and dynamic A2UI surface rendering.
